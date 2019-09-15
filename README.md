@@ -1,2 +1,2 @@
 # ReadDICOMImage
-ITK Example 
+ITK Example, Read a single DICOM slice
